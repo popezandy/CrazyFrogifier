@@ -1,0 +1,302 @@
+{
+  "schema_version": "0.2",
+  "description": "UNVERIFIED candidate pairs for research; no audio downloaded or reference masters confirmed. Some associations are covers, arrangements, or interpolations; investigate individual recording.",
+  "pairs": [
+    {
+      "id": "axel-f",
+      "frog_title": "Axel F",
+      "original_artist": "Harold Faltermeyer",
+      "original_title": "Axel F",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "popcorn",
+      "frog_title": "Popcorn",
+      "original_artist": "Gershon Kingsley / Hot Butter",
+      "original_title": "Popcorn",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "whoomp",
+      "frog_title": "Whoomp! (There It Is)",
+      "original_artist": "Tag Team",
+      "original_title": "Whoomp! (There It Is)",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "dont-you-want-me",
+      "frog_title": "Don't You Want Me",
+      "original_artist": "The Human League",
+      "original_title": "Don't You Want Me",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "pump-up-the-jam",
+      "frog_title": "Pump Up the Jam",
+      "original_artist": "Technotronic",
+      "original_title": "Pump Up the Jam",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "get-ready-for-this",
+      "frog_title": "Get Ready for This",
+      "original_artist": "2 Unlimited",
+      "original_title": "Get Ready for This",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "i-like-to-move-it",
+      "frog_title": "I Like to Move It",
+      "original_artist": "Reel 2 Real",
+      "original_title": "I Like to Move It",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "dallas",
+      "frog_title": "Dallas (Theme)",
+      "original_artist": "Jerrold Immel",
+      "original_title": "Dallas Theme",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "pink-panther",
+      "frog_title": "The Pink Panther",
+      "original_artist": "Henry Mancini",
+      "original_title": "The Pink Panther Theme",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "we-like-to-party",
+      "frog_title": "We Like to Party",
+      "original_artist": "Vengaboys",
+      "original_title": "We Like to Party!",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "bailando",
+      "frog_title": "Bailando",
+      "original_artist": "Paradisio",
+      "original_title": "Bailando",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "magic-melody",
+      "frog_title": "Magic Melody",
+      "original_artist": "Loituma / traditional",
+      "original_title": "Ievan Polkka",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "u-cant-touch-this",
+      "frog_title": "U Can't Touch This",
+      "original_artist": "MC Hammer",
+      "original_title": "U Can't Touch This",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "jingle-bells",
+      "frog_title": "Jingle Bells",
+      "original_artist": "Traditional",
+      "original_title": "Jingle Bells",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "last-christmas",
+      "frog_title": "Last Christmas",
+      "original_artist": "Wham!",
+      "original_title": "Last Christmas",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "we-are-the-champions",
+      "frog_title": "We Are the Champions",
+      "original_artist": "Queen",
+      "original_title": "We Are the Champions",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "crazy-frog-in-the-house",
+      "frog_title": "Crazy Frog in the House",
+      "original_artist": "Stu Phillips / Glen A. Larson",
+      "original_title": "Knight Rider theme",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "im-too-sexy",
+      "frog_title": "I'm Too Sexy",
+      "original_artist": "Right Said Fred",
+      "original_title": "I'm Too Sexy",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "hey-baby",
+      "frog_title": "Hey Baby",
+      "original_artist": "DJ Ötzi / Bruce Channel",
+      "original_title": "Hey Baby",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "final-countdown",
+      "frog_title": "The Final Countdown",
+      "original_artist": "Europe",
+      "original_title": "The Final Countdown",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "i-will-survive",
+      "frog_title": "I Will Survive",
+      "original_artist": "Gloria Gaynor",
+      "original_title": "I Will Survive",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "ice-ice-baby",
+      "frog_title": "Ice Ice Baby",
+      "original_artist": "Vanilla Ice",
+      "original_title": "Ice Ice Baby",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "kiss-him-goodbye",
+      "frog_title": "Kiss Him Goodbye",
+      "original_artist": "Steam",
+      "original_title": "Na Na Hey Hey Kiss Him Goodbye",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "nellie-the-elephant",
+      "frog_title": "Nellie the Elephant",
+      "original_artist": "Mandy Miller / children's song",
+      "original_title": "Nellie the Elephant",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "cotton-eye-joe",
+      "frog_title": "Cotton Eye Joe",
+      "original_artist": "Rednex / traditional",
+      "original_title": "Cotton Eye Joe",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "blue",
+      "frog_title": "Blue",
+      "original_artist": "Eiffel 65",
+      "original_title": "Blue (Da Ba Dee)",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "everytime-we-touch",
+      "frog_title": "Everytime We Touch",
+      "original_artist": "Cascada / Maggie Reilly",
+      "original_title": "Everytime We Touch",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "daddy-dj",
+      "frog_title": "Daddy DJ",
+      "original_artist": "Daddy DJ",
+      "original_title": "Daddy DJ",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "cha-cha-slide",
+      "frog_title": "Cha Cha Slide",
+      "original_artist": "DJ Casper",
+      "original_title": "Cha Cha Slide",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "no-limit",
+      "frog_title": "No Limit",
+      "original_artist": "2 Unlimited",
+      "original_title": "No Limit",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "push-it",
+      "frog_title": "Push It",
+      "original_artist": "Salt-N-Pepa",
+      "original_title": "Push It",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    },
+    {
+      "id": "safety-dance",
+      "frog_title": "Safety Dance",
+      "original_artist": "Men Without Hats",
+      "original_title": "The Safety Dance",
+      "status": "candidate",
+      "source_url": null,
+      "notes": "Verify recording identities, exact source version, pairing and audio before training."
+    }
+  ],
+  "official_unpaired_research_leads": [
+    "Crazy Sounds (Acapella)",
+    "Super Crazy Sounds",
+    "Crazy Jodeling",
+    "Go Froggy Go",
+    "Solo Frog"
+  ],
+  "fan_cover_candidates": []
+}
